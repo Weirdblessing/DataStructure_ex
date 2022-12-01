@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632735410 source:c:\users\knight6\desktop\数据结构\实验\4.实验四 字符串和多维数组实验\str\str.cpp
+	"str.h"
+
+1632734912 c:\users\knight6\desktop\数据结构\实验\4.实验四 字符串和多维数组实验\str\str.h
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1632734912 source:c:\users\knight6\desktop\数据结构\实验\4.实验四 字符串和多维数组实验\str\main.cpp
+	"str.h"
+

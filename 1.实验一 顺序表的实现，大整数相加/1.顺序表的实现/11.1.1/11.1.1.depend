@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1631006050 source:c:\users\knight6\desktop\数据结构\实验\实验程序\1.顺序表的实现\11.1.1\main.cpp
+	"Seq.h"
+	"Seq.cpp"
+
+1631010352 c:\users\knight6\desktop\数据结构\实验\实验程序\1.顺序表的实现\11.1.1\seq.h
+	<iostream>
+	<string.h>
+
+1631006599 source:c:\users\knight6\desktop\数据结构\实验\实验程序\1.顺序表的实现\11.1.1\seq.cpp
+	"Seq.h"
+
+1630929008 source:c:\users\knight6\desktop\数据结构\实验\实验程序\1.顺序表的实现\11.1.1\seq.h
+	<iostream>
+	<string.h>
+
+1631006599 c:\users\knight6\desktop\数据结构\实验\实验程序\1.顺序表的实现\11.1.1\seq.cpp
+	"Seq.h"
+

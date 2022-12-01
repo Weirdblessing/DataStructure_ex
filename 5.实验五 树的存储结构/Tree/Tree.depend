@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634298103 source:c:\users\knight6\desktop\数据结构\实验\5.实验五 树的存储结构\tree\main.cpp
+	"Tree.h"
+
+1634201942 c:\users\knight6\desktop\数据结构\实验\5.实验五 树的存储结构\tree\tree.h
+	<iostream>
+	<stdio.h>
+
+1634298608 source:c:\users\knight6\desktop\数据结构\实验\5.实验五 树的存储结构\tree\tree.cpp
+	"Tree.h"
+

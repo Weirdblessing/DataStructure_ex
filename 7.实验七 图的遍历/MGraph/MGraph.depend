@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635141107 source:c:\users\knight6\desktop\数据结构\实验\7.实验七\mgraph\mgraph.cpp
+	<iostream>
+	"MGraph.h"
+
+1635141022 c:\users\knight6\desktop\数据结构\实验\7.实验七\mgraph\mgraph.h
+
+1635141022 source:c:\users\knight6\desktop\数据结构\实验\7.实验七\mgraph\mgraph.h
+
+1635146688 source:c:\users\knight6\desktop\数据结构\实验\7.实验七 图的遍历\mgraph\mgraph.cpp
+	"MGraph.h"
+
+1635155087 c:\users\knight6\desktop\数据结构\实验\7.实验七 图的遍历\mgraph\mgraph.h
+	<iostream>
+
+1635148119 source:c:\users\knight6\desktop\数据结构\实验\7.实验七 图的遍历\mgraph\main.cpp
+	"MGraph.h"
+
+1635146688 c:\users\knight6\desktop\数据结构\实验\7.实验七 图的遍历\mgraph\mgraph.cpp
+	"MGraph.h"
+
+1635146760 source:c:\users\knight6\desktop\数据结构\实验\7.实验七 图的遍历\mgraph\mgraph.h
+	<iostream>
+

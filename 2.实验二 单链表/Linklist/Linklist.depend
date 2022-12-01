@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1632034503 source:c:\users\knight6\desktop\数据结构\实验\2.实验二 单链表\linklist\linklist.cpp
+	"Linklist.h"
+
+1632035157 c:\users\knight6\desktop\数据结构\实验\2.实验二 单链表\linklist\linklist.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1632034503 source:c:\users\knight6\desktop\数据结构\实验\2.实验二 单链表\linklist\main.cpp
+	"Linklist.h"
+	"Linklist.cpp"
+
+1632034503 c:\users\knight6\desktop\数据结构\实验\2.实验二 单链表\linklist\linklist.cpp
+	"Linklist.h"
+

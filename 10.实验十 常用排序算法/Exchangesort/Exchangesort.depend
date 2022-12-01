@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637339014 source:c:\users\knight6\desktop\数据结构\实验\10.实验十 常用排序算法\exchangesort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1634463273 source:c:\users\knight6\desktop\数据结构\实验\6.实验六\bitree\bitree.h
+	<iostream>
+
+1634463925 source:c:\users\knight6\desktop\数据结构\实验\6.实验六\bitree\main.cpp
+	"Bitree.h"
+
+1634463273 c:\users\knight6\desktop\数据结构\实验\6.实验六\bitree\bitree.h
+	<iostream>
+
+1634463942 source:c:\users\knight6\desktop\数据结构\实验\6.实验六\bitree\bitree.cpp
+	"Bitree.h"
+
+1634556117 source:c:\users\knight6\desktop\数据结构\实验\6.实验六 二叉树的构建应用\bitree\main.cpp
+	"Bitree.h"
+
+1634556459 c:\users\knight6\desktop\数据结构\实验\6.实验六 二叉树的构建应用\bitree\bitree.h
+	<iostream>
+
+1634556459 source:c:\users\knight6\desktop\数据结构\实验\6.实验六 二叉树的构建应用\bitree\bitree.h
+	<iostream>
+
+1634555239 source:c:\users\knight6\desktop\数据结构\实验\6.实验六 二叉树的构建应用\bitree\bitree.cpp
+	"Bitree.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636808188 source:c:\users\knight6\desktop\数据结构\实验\9.实验九 常用查找算法\treetable\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

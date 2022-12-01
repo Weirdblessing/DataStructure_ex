@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636356645 source:c:\users\knight6\desktop\数据结构\实验\9.实验九 常用查找算法\order\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

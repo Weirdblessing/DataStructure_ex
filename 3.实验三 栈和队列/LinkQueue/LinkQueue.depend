@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632641580 source:c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\linkqueue\linkqueue.cpp
+	"LinkQueue.h"
+
+1632640729 c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\linkqueue\linkqueue.h
+	<iostream>
+
+1632644645 source:c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\linkqueue\main.cpp
+	"LinkQueue.h"
+	"LinkQueue.cpp"
+
+1632641580 c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\linkqueue\linkqueue.cpp
+	"LinkQueue.h"
+

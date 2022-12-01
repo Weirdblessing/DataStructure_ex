@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632467959 source:c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\seqstack\seqstack.cpp
+	"SeqStack.h"
+
+1632468068 c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\seqstack\seqstack.h
+	<iostream>
+
+1632645039 source:c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\seqstack\main.cpp
+	"SeqStack.h"
+	"SeqStack.cpp"
+
+1632467959 c:\users\knight6\desktop\数据结构\实验\3.实验三 栈和队列\seqstack\seqstack.cpp
+	"SeqStack.h"
+
